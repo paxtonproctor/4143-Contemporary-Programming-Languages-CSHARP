@@ -1,1 +1,1 @@
-# 4143-Contemporary-Programming-Languages-CSHARP
+# 4143-Contemporary-Programming-Languages-CSHARP This class focuses on programming for Java and Python. This Repo is the Python portion of this.
