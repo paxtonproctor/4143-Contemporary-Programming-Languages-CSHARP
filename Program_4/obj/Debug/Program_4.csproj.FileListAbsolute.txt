@@ -1,0 +1,11 @@
+C:\Users\paxpr\source\repos\Program_4\bin\Debug\Program_4.exe.config
+C:\Users\paxpr\source\repos\Program_4\bin\Debug\Program_4.exe
+C:\Users\paxpr\source\repos\Program_4\bin\Debug\Program_4.pdb
+C:\Users\paxpr\source\repos\Program_4\obj\Debug\Program_4.csproj.AssemblyReference.cache
+C:\Users\paxpr\source\repos\Program_4\obj\Debug\Program_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\paxpr\source\repos\Program_4\obj\Debug\Program_4.FormGame.resources
+C:\Users\paxpr\source\repos\Program_4\obj\Debug\Program_4.Properties.Resources.resources
+C:\Users\paxpr\source\repos\Program_4\obj\Debug\Program_4.csproj.GenerateResource.cache
+C:\Users\paxpr\source\repos\Program_4\obj\Debug\Program_4.csproj.CoreCompileInputs.cache
+C:\Users\paxpr\source\repos\Program_4\obj\Debug\Program_4.exe
+C:\Users\paxpr\source\repos\Program_4\obj\Debug\Program_4.pdb
