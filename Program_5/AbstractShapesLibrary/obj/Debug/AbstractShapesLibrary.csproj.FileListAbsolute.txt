@@ -1,0 +1,12 @@
+D:\4143C#\SamplePrograms\c#programs\AbstractShapes\AbstractShapesLibrary\bin\Debug\AbstractShapesLibrary.dll
+D:\4143C#\SamplePrograms\c#programs\AbstractShapes\AbstractShapesLibrary\bin\Debug\AbstractShapesLibrary.pdb
+D:\4143C#\SamplePrograms\c#programs\AbstractShapes\AbstractShapesLibrary\obj\Debug\AbstractShapesLibrary.csprojAssemblyReference.cache
+D:\4143C#\SamplePrograms\c#programs\AbstractShapes\AbstractShapesLibrary\obj\Debug\AbstractShapesLibrary.csproj.CoreCompileInputs.cache
+D:\4143C#\SamplePrograms\c#programs\AbstractShapes\AbstractShapesLibrary\obj\Debug\AbstractShapesLibrary.dll
+D:\4143C#\SamplePrograms\c#programs\AbstractShapes\AbstractShapesLibrary\obj\Debug\AbstractShapesLibrary.pdb
+C:\Users\paxpr\Downloads\AbstractShapes\AbstractShapes\AbstractShapesLibrary\bin\Debug\AbstractShapesLibrary.dll
+C:\Users\paxpr\Downloads\AbstractShapes\AbstractShapes\AbstractShapesLibrary\bin\Debug\AbstractShapesLibrary.pdb
+C:\Users\paxpr\Downloads\AbstractShapes\AbstractShapes\AbstractShapesLibrary\obj\Debug\AbstractShapesLibrary.csproj.AssemblyReference.cache
+C:\Users\paxpr\Downloads\AbstractShapes\AbstractShapes\AbstractShapesLibrary\obj\Debug\AbstractShapesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\paxpr\Downloads\AbstractShapes\AbstractShapes\AbstractShapesLibrary\obj\Debug\AbstractShapesLibrary.dll
+C:\Users\paxpr\Downloads\AbstractShapes\AbstractShapes\AbstractShapesLibrary\obj\Debug\AbstractShapesLibrary.pdb

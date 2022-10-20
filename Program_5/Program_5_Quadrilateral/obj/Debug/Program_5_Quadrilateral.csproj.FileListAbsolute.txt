@@ -1,0 +1,14 @@
+C:\Users\paxpr\source\repos\Program_5_Quadrilateral\bin\Debug\Program_5_Quadrilateral.exe.config
+C:\Users\paxpr\source\repos\Program_5_Quadrilateral\bin\Debug\Program_5_Quadrilateral.exe
+C:\Users\paxpr\source\repos\Program_5_Quadrilateral\bin\Debug\Program_5_Quadrilateral.pdb
+C:\Users\paxpr\source\repos\Program_5_Quadrilateral\obj\Debug\Program_5_Quadrilateral.csproj.AssemblyReference.cache
+C:\Users\paxpr\source\repos\Program_5_Quadrilateral\obj\Debug\Program_5_Quadrilateral.csproj.SuggestedBindingRedirects.cache
+C:\Users\paxpr\source\repos\Program_5_Quadrilateral\obj\Debug\Program_5_Quadrilateral.FormQuadrilateral.resources
+C:\Users\paxpr\source\repos\Program_5_Quadrilateral\obj\Debug\Program_5_Quadrilateral.Properties.Resources.resources
+C:\Users\paxpr\source\repos\Program_5_Quadrilateral\obj\Debug\Program_5_Quadrilateral.csproj.GenerateResource.cache
+C:\Users\paxpr\source\repos\Program_5_Quadrilateral\obj\Debug\Program_5_Quadrilateral.csproj.CoreCompileInputs.cache
+C:\Users\paxpr\source\repos\Program_5_Quadrilateral\obj\Debug\Program_5_Quadrilateral.csproj.CopyComplete
+C:\Users\paxpr\source\repos\Program_5_Quadrilateral\obj\Debug\Program_5_Quadrilateral.exe
+C:\Users\paxpr\source\repos\Program_5_Quadrilateral\obj\Debug\Program_5_Quadrilateral.pdb
+C:\Users\paxpr\source\repos\Program_5_Quadrilateral\bin\Debug\AbstractShapesLibrary.dll
+C:\Users\paxpr\source\repos\Program_5_Quadrilateral\bin\Debug\AbstractShapesLibrary.pdb
