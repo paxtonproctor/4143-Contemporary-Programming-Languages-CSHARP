@@ -1,4 +1,17 @@
-﻿using System;
+// Paxton Proctor
+// Program 5 C# 10/20/2022
+///<summary>
+/// Design an inheritance hierarchy for class Quadrilateral, Trapezoid,
+/// Parallelogram, Rectangle, and Square.
+/// Use abstract class Quadrilateral as the base class of the hierarchy.
+/// Make the hierarchy as deep (i.e., as
+/// many levels) as possible, but still make sense. The private data of 
+/// Quadrilateral should be the x-y
+/// coordinate pairs for the four endpoints of the Quadrilateral.
+/// (HINT: Use a Point class with private data.)
+/// </summary>
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
