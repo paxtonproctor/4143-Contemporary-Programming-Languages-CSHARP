@@ -1,0 +1,11 @@
+C:\Users\paxpr\source\repos\Program_7\bin\Debug\Program_7.exe.config
+C:\Users\paxpr\source\repos\Program_7\bin\Debug\Program_7.exe
+C:\Users\paxpr\source\repos\Program_7\bin\Debug\Program_7.pdb
+C:\Users\paxpr\source\repos\Program_7\obj\Debug\Program_7.csproj.AssemblyReference.cache
+C:\Users\paxpr\source\repos\Program_7\obj\Debug\Program_7.csproj.SuggestedBindingRedirects.cache
+C:\Users\paxpr\source\repos\Program_7\obj\Debug\Program_7.DrawingForm.resources
+C:\Users\paxpr\source\repos\Program_7\obj\Debug\Program_7.Properties.Resources.resources
+C:\Users\paxpr\source\repos\Program_7\obj\Debug\Program_7.csproj.GenerateResource.cache
+C:\Users\paxpr\source\repos\Program_7\obj\Debug\Program_7.csproj.CoreCompileInputs.cache
+C:\Users\paxpr\source\repos\Program_7\obj\Debug\Program_7.exe
+C:\Users\paxpr\source\repos\Program_7\obj\Debug\Program_7.pdb
