@@ -1,0 +1,8 @@
+C:\Users\paxpr\source\repos\WindowsFormsControlLibraryProgram_8\bin\Debug\WindowsFormsControlLibraryProgram_8.dll
+C:\Users\paxpr\source\repos\WindowsFormsControlLibraryProgram_8\bin\Debug\WindowsFormsControlLibraryProgram_8.pdb
+C:\Users\paxpr\source\repos\WindowsFormsControlLibraryProgram_8\obj\Debug\WindowsFormsControlLibraryProgram_8.csproj.AssemblyReference.cache
+C:\Users\paxpr\source\repos\WindowsFormsControlLibraryProgram_8\obj\Debug\WindowsFormsControlLibraryProgram_8.csproj.CoreCompileInputs.cache
+C:\Users\paxpr\source\repos\WindowsFormsControlLibraryProgram_8\obj\Debug\WindowsFormsControlLibraryProgram_8.dll
+C:\Users\paxpr\source\repos\WindowsFormsControlLibraryProgram_8\obj\Debug\WindowsFormsControlLibraryProgram_8.pdb
+C:\Users\paxpr\source\repos\WindowsFormsControlLibraryProgram_8\obj\Debug\WindowsFormsControlLibraryProgram_8.csproj.GenerateResource.cache
+C:\Users\paxpr\source\repos\WindowsFormsControlLibraryProgram_8\obj\Debug\WindowsFormsControlLibraryProgram_8.UserControlInput.resources

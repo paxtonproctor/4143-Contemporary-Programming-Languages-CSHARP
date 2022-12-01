@@ -1,0 +1,17 @@
+C:\Users\paxpr\source\repos\Program_8\bin\Debug\Program_8.exe.config
+C:\Users\paxpr\source\repos\Program_8\bin\Debug\Program_8.exe
+C:\Users\paxpr\source\repos\Program_8\bin\Debug\Program_8.pdb
+C:\Users\paxpr\source\repos\Program_8\obj\Debug\Program_8.csproj.AssemblyReference.cache
+C:\Users\paxpr\source\repos\Program_8\obj\Debug\Program_8.csproj.SuggestedBindingRedirects.cache
+C:\Users\paxpr\source\repos\Program_8\obj\Debug\Program_8.FormMDI.resources
+C:\Users\paxpr\source\repos\Program_8\obj\Debug\Program_8.Properties.Resources.resources
+C:\Users\paxpr\source\repos\Program_8\obj\Debug\Program_8.csproj.GenerateResource.cache
+C:\Users\paxpr\source\repos\Program_8\obj\Debug\Program_8.csproj.CoreCompileInputs.cache
+C:\Users\paxpr\source\repos\Program_8\obj\Debug\Program_8.exe
+C:\Users\paxpr\source\repos\Program_8\obj\Debug\Program_8.pdb
+C:\Users\paxpr\source\repos\Program_8\obj\Debug\Program_8.AboutForm.resources
+C:\Users\paxpr\source\repos\Program_8\obj\Debug\Program_8.HardwareForm.resources
+C:\Users\paxpr\source\repos\Program_8\bin\Debug\WindowsFormsControlLibraryProgram_8.dll
+C:\Users\paxpr\source\repos\Program_8\bin\Debug\WindowsFormsControlLibraryProgram_8.pdb
+C:\Users\paxpr\source\repos\Program_8\obj\Debug\Program_8.csproj.CopyComplete
+C:\Users\paxpr\source\repos\Program_8\obj\Debug\Program_8.InputForm.resources
